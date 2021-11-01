@@ -4,7 +4,7 @@ This is "The Prancing Bard" 7drl v 1.0
 
 It was developed during the 7 Day Roguelike Challenge 2016 from 5th to 12th March.
 
-For any feedback, bugs, comments or questions feel free to email me under jan_rl@gmx.de . Happy to get in touch with you!
+For any feedback, bugs, comments or questions feel free to email me. Happy to get in touch with you!
 
 Download page for the game: https://sites.google.com/site/theprancingbard/
 
