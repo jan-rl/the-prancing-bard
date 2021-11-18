@@ -6,7 +6,7 @@ It was developed during the 7 Day Roguelike Challenge 2016 from 5th to 12th Marc
 
 For any feedback, bugs, comments or questions feel free to email me. Happy to get in touch with you!
 
-Download page for the game: https://sites.google.com/site/theprancingbard/
+Download page for the game: https://jan-rl.itch.io/the-prancing-bard
 
 
 THE GAME
@@ -40,15 +40,18 @@ REQUIREMENTS
 
 This is for Windows, running the .exe should be enough. As the MSVCR90.dll is not bundled with this programm, you may need to download the Microsoft Visual C++ 2008 Redistributable Package (http://www.microsoft.com/en-us/download/details.aspx?id=29) .
  
+
+LICENSE
+
+Full credit and props to libtcod and the python tutorial code, it is the basis of this and more or less still visible. Licenses for libtcodpy and Bearlibterminal are as indicated in the files. My code is public domain, no copyright, spread the love.
+
     
 DISCLAIMER
 
-Full credit and props to libtcod and the python tutorial code, it is the basis and not my code. 
-
-Some of the code is based on my previous roguelike "rng clrc" https://sites.google.com/site/rngclrc/
+Some of the code is based on my previous roguelike "rng clrc" https://jan-rl.itch.io/rng-clrc-a-roguelike
 The timing scheduler is from RogueBasin: http://www.roguebasin.com/index.php?title=A_simple_turn_scheduling_system_--_Python_implementation
-REXpaint was used to draw interface and effects:
-XP_loader was used from RCIX:
+REXpaint was used to draw interface and effects: https://www.gridsagegames.com/rexpaint/
+XP_loader was used from RCIX: https://github.com/RinCamelia/XPLoader
 The attack sprite was inspired by:
 
 This is code writte by a hobbyist. I am not a programmer by education. Although I write and use this code on my machine without any known issues, download and execution is at your own risk.
