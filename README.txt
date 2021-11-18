@@ -39,14 +39,11 @@ ESC for main menue
 REQUIREMENTS
 
 This is for Windows, running the .exe should be enough. As the MSVCR90.dll is not bundled with this programm, you may need to download the Microsoft Visual C++ 2008 Redistributable Package (http://www.microsoft.com/en-us/download/details.aspx?id=29) .
- 
 
-LICENSE
 
-Full credit and props to libtcod and the python tutorial code, it is the basis of this and more or less still visible. Licenses for libtcodpy and Bearlibterminal are as indicated in the files. My code is public domain, no copyright, spread the love.
-
-    
 DISCLAIMER
+
+Full credit and props to libtcod and the python tutorial code, it is the basis of this and more or less still visible. Licenses for libtcodpy and Bearlibterminal are as indicated in the files. 
 
 Some of the code is based on my previous roguelike "rng clrc" https://jan-rl.itch.io/rng-clrc-a-roguelike
 
