@@ -49,6 +49,7 @@ Full credit and props to libtcod and the python tutorial code, it is the basis o
 DISCLAIMER
 
 Some of the code is based on my previous roguelike "rng clrc" https://jan-rl.itch.io/rng-clrc-a-roguelike
+
 The timing scheduler is from RogueBasin: http://www.roguebasin.com/index.php?title=A_simple_turn_scheduling_system_--_Python_implementation
 REXpaint was used to draw interface and effects: https://www.gridsagegames.com/rexpaint/
 XP_loader was used from RCIX: https://github.com/RinCamelia/XPLoader
